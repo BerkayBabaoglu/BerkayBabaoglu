@@ -24,8 +24,7 @@
 ###
 
 <br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/BerkayBabaoglu/BerkayBabaoglu/output/github-contribution-grid-snake-dark.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybabaoglu&" alt="berkaybabaoglu" /></p>
 
 ###
 
