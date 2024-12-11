@@ -26,6 +26,10 @@
 <br clear="both">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybabaoglu&" alt="berkaybabaoglu" /></p>
 
+![](https://github-readme-stats.vercel.app/api?username=BerkayBabaoglu&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BerkayBabaoglu&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayBabaoglu&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ###
 
 [![](https://visitcount.itsvg.in/api?id=BerkayBabaoglu&icon=2&color=2)](https://visitcount.itsvg.in)
