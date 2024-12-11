@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BerkayBabaoglu/BerkayBabaoglu/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/BerkayBabaoglu/BerkayBabaoglu/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
