@@ -24,8 +24,7 @@
 ###
 
 <br clear="both">
-![snake animation](https://github.com/<BerkayBabaoglu>/<BerkayBabaoglu>/blob/output/github-contribution-grid-snake2.svg)
-
+![snake gif](https://github.com/BerkayBabaoglu/BerkayBabaoglu/blob/output/github-snake-dark.svg)
 ###
 
 [![](https://visitcount.itsvg.in/api?id=BerkayBabaoglu&icon=2&color=2)](https://visitcount.itsvg.in)
