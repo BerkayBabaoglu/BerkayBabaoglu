@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="#unreal-engine">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Unreal_Engine_Logo.svg" width="48" height="48" alt="Unreal Engine" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Unreal_Engine_Logo.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
