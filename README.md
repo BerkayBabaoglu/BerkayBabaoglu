@@ -1,25 +1,48 @@
-<h2 align="left">Hi 👋! My name is Berkay Babaoglu and I'm here to make games :)</h2>
+# Hi there, I'm Berkay Babaoglu! 👋
 
-###
+[![GitHub followers](https://img.shields.io/github/followers/BerkayBabaoglu?label=Follow&style=social)](https://github.com/BerkayBabaoglu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/berkaybabaoglu/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkayBabaoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkayBabaoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I'm a passionate software developer with a love for coding and problem-solving. I enjoy working on a variety of projects, from web development to data science, and I'm always eager to learn new technologies and improve my skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning [Your Current Learning Focus]
+- 👯 I’m looking to collaborate on [Types of Projects or Technologies]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [A Fun Fact About Yourself]
 
-###
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/berkay-babao%C4%9Flu-73b399230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkaybabaoğlu" height="30" width="40" /></a>
-<a href="https://medium.com/@berkay.babaoglu.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkay.babaoglu.01" height="30" width="40" /></a>
-</p>
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks and Libraries:** React, Node.js, Express, Django
+- **Tools and Platforms:** Git, Docker, Kubernetes, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+### [Project 1 Name](https://github.com/BerkayBabaoglu/Project1)
+A brief description of what this project is about and what technologies it uses.
+
+### [Project 2 Name](https://github.com/BerkayBabaoglu/Project2)
+A brief description of what this project is about and what technologies it uses.
+
+### [Project 3 Name](https://github.com/BerkayBabaoglu/Project3)
+A brief description of what this project is about and what technologies it uses.
+
+## GitHub Stats
+
+![BerkayBabaoglu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BerkayBabaoglu&show_icons=true&theme=radical)
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/berkaybabaoglu/)
+- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Email](mailto:your.email@example.com)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
 
 ###
 
