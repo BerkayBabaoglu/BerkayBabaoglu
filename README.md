@@ -1,11 +1,5 @@
-
-<h1 align="center">
- 👋 Hi, I'm Berkay Babaoglu!
-</h1>
- 
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Game+Developer;" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Hi+I'm+Berkay+Babaoglu;Software+Engineer;Game+Developer;" > 
 </p>
 
 
@@ -41,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <h2> 📊 Github Stats ....</h2>
+ <h2> 📊 Github Stats</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BerkayBabaoglu&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BerkayBabaoglu&theme=solarized_dark">
@@ -94,7 +88,7 @@
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayBabaoglu&theme=algolia" />
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## Connect with me:
@@ -105,10 +99,13 @@
 
 </p>
 
-## ❤ Views and Followers
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Views and Followers
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=BerkayBabaoglu&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
@@ -116,15 +113,13 @@
 </p>	
  
 <br>
-
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br clear="both">
 
 ![snake gif](https://github.com/BerkayBabaoglu/BerkayBabaoglu/blob/output/github-snake-dark.svg)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
