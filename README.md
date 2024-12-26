@@ -60,31 +60,30 @@
   <tr>
     <td align="center" width="96">
       <a href="#c-sharp">
-        <img src="https://seeklogo.com/vector-logo/363285/c-sharp-c" width="48" height="48" alt="C#" />
+        <img src="https://images.seeklogo.com/logo-png/36/1/c-sharp-c-logo-png_seeklogo-363285.png?v=1957363170977474520" width="48" height="48" alt="c-sharp" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#c-plus-plus">
-        <img src="https://seeklogo.com/vector-logo/249774/c" width="48" height="48" alt="C++" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#unreal-engine">
-        <img src="https://seeklogo.com/vector-logo/489478/unreal-engine" width="48" height="48" alt="Unreal Engine" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Unreal_Engine_Logo.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
     <td align="center" width="96">
       <a href="#unity">
-        <img src="https://seeklogo.com/vector-logo/412622/unity" width="48" height="48" alt="Unity" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
   </tr>
 </table>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
