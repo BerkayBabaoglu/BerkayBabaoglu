@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="#unreal-engine">
-        <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" width="48" height="48" alt="Unreal Engine" />
+        <img src="(https://seeklogo.com/images/U/unreal-engine-logo-12B9A1D996-seeklogo.com.png)" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
