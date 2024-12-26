@@ -60,9 +60,9 @@
   <tr>
       <td align="center" width="96">
       <a href="#c-sharp">
-        <img src="(https://seeklogo.com/vector-logo/363285/c-sharp-c)" width="48" height="48" alt="Html5" />
+        <img src="(https://images.seeklogo.com/logo-png/36/1/c-sharp-c-logo-png_seeklogo-363285.png?v=1957363170977474520)" width="48" height="48" alt="c-sharp" />
       </a>
-      <br>Html5
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#css3">
