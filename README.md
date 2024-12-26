@@ -4,9 +4,9 @@
 
 
 </br> 
-
-<img align="right" width=200px height=200px alt="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VnbnNpbDh3dTg5Mm5vdGV3bW1zcnRoOWkxNHl0ODlnMTU4MGh6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif" />
-
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VnbnNpbDh3dTg5Mm5vdGV3bW1zcnRoOWkxNHl0ODlnMTU4MGh6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif" alt="GIF">
+</p>
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
