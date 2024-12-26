@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="#unreal-engine">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Unreal_Engine_Logo.svg" width="48" height="48" alt="Unreal Engine" />
+        <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
@@ -124,9 +124,7 @@
 
 ![snake gif](https://github.com/BerkayBabaoglu/BerkayBabaoglu/blob/output/github-snake-dark.svg)
 
-###
 
-[![](https://visitcount.itsvg.in/api?id=BerkayBabaoglu&icon=2&color=2)](https://visitcount.itsvg.in)
 
 
 
