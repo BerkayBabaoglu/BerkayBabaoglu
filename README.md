@@ -75,7 +75,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Unreal_Engine_Logo.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
-    </td
+    </td>
     <td align="center" width="96">
       <a href="#unity">
         <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="48" height="48" alt="Unity" />
