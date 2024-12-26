@@ -60,25 +60,25 @@
   <tr>
     <td align="center" width="96">
       <a href="#c-sharp">
-        <img src="https://seeklogo.com/vector-logo/363285/c-sharp-c" width="48" height="48" alt="C#" />
+        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#c-plus-plus">
-        <img src="https://seeklogo.com/vector-logo/249774/c" width="48" height="48" alt="C++" />
+        <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#unreal-engine">
-        <img src="https://seeklogo.com/vector-logo/489478/unreal-engine" width="48" height="48" alt="Unreal Engine" />
+        <img src="https://seeklogo.com/images/U/unreal-engine-logo-2C4DB6C5B5-seeklogo.com.png" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
     <td align="center" width="96">
       <a href="#unity">
-        <img src="https://seeklogo.com/vector-logo/412622/unity" width="48" height="48" alt="Unity" />
+        <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
