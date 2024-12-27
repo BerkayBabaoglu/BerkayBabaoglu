@@ -14,8 +14,8 @@
 
 >✔  I make games. <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@BerkayBabaoglu](berkay.babaoglu.01@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@BerkayBabaoglu](https://www.linkedin.com/in/berkaybabaoglu01/) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@BerkayBabaoglu]berkay.babaoglu.01@gmail.com <br>
+                         &nbsp; &nbsp; * [linkedIn-@BerkayBabaoglu]https://www.linkedin.com/in/berkaybabaoglu01/ <br>
 
 
 
