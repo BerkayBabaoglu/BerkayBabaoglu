@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <h2> 📊 Github Stats</h2>
+ <h2> 📊 Github Stats:</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BerkayBabaoglu&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BerkayBabaoglu&theme=solarized_dark">
@@ -78,7 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Views and Followers
+## Views and Followers:
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=BerkayBabaoglu&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
