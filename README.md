@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Hi+I'm+Berkay+Babaoglu;" alt="Typing SVG">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;" alt="Typing SVG">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Game+Developer;" alt="Typing SVG">
 </p>
 
