@@ -10,13 +10,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 >✔  I make games. <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; **[Email]**:[berkay.babaoglu.01@gmail.com](mailto:berkay.babaoglu.01@gmail.com) <br>
                          &nbsp; &nbsp; **[Linkedin]**:[https://www.linkedin.com/in/berkaybabaoglu01/](https://www.linkedin.com/in/berkaybabaoglu01/) <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BerkayBabaoglu" alt="berkay" /></a></p>
 
